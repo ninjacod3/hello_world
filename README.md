@@ -1,2 +1,5 @@
 # hello_world
-First repository
+
+Hello Everyone!
+
+New to coding here.  Seeing what this is all about.
